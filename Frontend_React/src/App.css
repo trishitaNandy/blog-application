@@ -1,0 +1,11 @@
+body{
+    background: linear-gradient(-45deg, #d271d2, #ff9ec0,#eac6ea)
+    
+}
+.page-item.active .page-link{
+    background-color: #121212!important;
+    border-color: #121212!important;
+}
+.pink-card {
+    background-color: pink;
+  }
