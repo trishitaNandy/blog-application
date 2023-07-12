@@ -141,7 +141,7 @@ const  Signup=()=>{
 
                     
                     <Col sm={{size:6,offset:3}} >
-                        <Card  color="dark" inverse>
+                        <Card  style={{ background: "#8B008B"}} inverse>
                             <CardHeader >
                                 <h3>Fill Information to Register !!</h3>
                             </CardHeader>
